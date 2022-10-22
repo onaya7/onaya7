@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/onaya7)
 <h1 align="center">Hi 👋, I'm samuel</h1>
 <h3 align="center">A passionate (Python)Back-end Webdeveloper</h3>
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" align="right" width="200">
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" align="right" width="500">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onaya7&label=Profile%20views&color=0e75b6&style=flat" alt="onaya7" /> </p>
