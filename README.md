@@ -12,7 +12,7 @@
 
 - 💻I aspire to work **as a Software Engineer and contributing to backend for building web applications and Optimizing servers for scalability, speed, and stability**
 
-- 💬 I'm currently learning **C programming language**
+- 💬 I'm currently learning **Software engineering at ALX**
 
 - 📫 How to reach me **samuelayano7@gmail.com**
 
