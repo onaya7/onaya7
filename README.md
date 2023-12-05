@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onaya7&label=Profile%20views&color=0e75b6&style=flat" alt="onaya7" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dev_onaya" target="blank"><img src="img.shields.io/twitter/follow/dev_onaya?logo=twitter&style=for-the-badge" alt="dev_onaya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dev_onaya" target="blank"><img src="https://img.shields.io/twitter/follow/dev_onaya?logo=twitter&style=for-the-badge" alt="dev_onaya" /></a> </p>
 
 - 🔭 I’m currently working on **Something cool 😁**
 
@@ -20,8 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dev_onaya" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/XyI6Hyz9AFg7E_joVzX2zh6CpWm9B2DG2JuEz5meCFVm4-wTKTnHgqbmg62iFKe4Gzca
-" alt="dev_onaya" height="30" width="40" /></a>
+<a href="https://twitter.com/dev_onaya" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/XyI6Hyz9AFg7E_joVzX2zh6CpWm9B2DG2JuEz5meCFVm4-wTKTnHgqbmg62iFKe4Gzca" alt="dev_onaya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samuel-ayano-1336bb247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-ayano-1336bb247" height="30" width="40" /></a>
 </p>
 
