@@ -29,8 +29,6 @@
 
 <p><img align="left" src="https://api.githubtrends.io/user/svg/onaya7/langs?time_range=one_year&theme=dark" alt="onaya7" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onaya7&show_icons=true&locale=en&layout=compact&theme=dark" alt="onaya7" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onaya7&show_icons=true&locale=en&theme=dark" alt="onaya7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onaya7&" alt="onaya7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onaya7&theme=dark" alt="onaya7" /></p>
