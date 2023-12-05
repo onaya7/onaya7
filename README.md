@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/onaya7)
 <h1 align="center">Hi 👋, I'm samuel</h1>
-<h3 align="center">A passionate (Python)Full stack Software engineer</h3>
+<h3 align="center">A Backend Software engineer</h3>
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" align="right" width="500">
 
 
