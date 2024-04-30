@@ -12,7 +12,7 @@
 
 - 💻I work **as a Software Engineer and contributing to backend for building web applications and Optimizing servers for scalability, speed, and stability**
 
-- 💬 I'm currently learning **Flutter**
+- 💬 I'm currently honing my skills in **Flutter**
 
 - 📫 How to reach me **samuelayano7@gmail.com**
 
