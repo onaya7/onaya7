@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Something cool 😁**
 
-- 💻I work **as a Software Engineer and contributing to backend for building web applications and Optimizing servers for scalability, speed, and stability**
+- 💻I work **as a Software Engineer, specializing in mobile application development. I also contribute to backend development for building web applications and optimizing servers for scalability, speed, and stability**.
 
-- 💬 I'm currently honing my skills in **Flutter**
+- 💬 I'm currently honing my skills as a **Software Engineer**
 
 - 📫 How to reach me **samuelayano7@gmail.com**
 
